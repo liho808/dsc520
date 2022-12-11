@@ -5,7 +5,7 @@
 # Basics
 
 ## Add 8 and 5
-___
+8 + 5
 
 ## Subtract 6 from 22
 ___
